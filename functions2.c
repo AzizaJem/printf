@@ -2,10 +2,10 @@
 
 /****************** PRINT POINTER ******************/
 /**
- * print_pointer - Prints the value of a pointer variable
- * @types: List a of arguments
+ * print_pointer - Print the value of a pointer variable
+ * @types: Lists of arguments
  * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
+ * @flags:  Calculate active flags
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
